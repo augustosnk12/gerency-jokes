@@ -8,4 +8,9 @@ class AppTextStyles {
     fontWeight: FontWeight.w600,
     color: AppColors.grayHomeColor,
   );
+  static final buttonTexPurple = GoogleFonts.inter(
+    fontSize: 20,
+    fontWeight: FontWeight.w500,
+    color: AppColors.purpleButtonColor,
+  );
 }
