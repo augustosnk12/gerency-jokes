@@ -8,7 +8,7 @@ import 'package:gerency_jokes/app/routes/app_routes.dart';
 void main() {
   runApp(GetMaterialApp(
     debugShowCheckedModeBanner: false,
-    initialRoute: Routes.login,
+    initialRoute: Routes.bottomNavigation,
     theme: ThemeData(
       primaryColor: Color.fromARGB(255, 159, 0, 199), 
       //set some background

@@ -3,7 +3,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:gerency_jokes/app/views/login_page/login_button_widget.dart';
+import 'package:gerency_jokes/app/views/login/login_button_widget.dart';
 import 'package:gerency_jokes/utils/colors.dart';
 import 'package:gerency_jokes/utils/fonts.dart';
 import 'package:google_fonts/google_fonts.dart';
